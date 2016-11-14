@@ -1,9 +1,10 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+var React = require('react');
+var ReactDOM = require('react-dom');
 
-import App from './App';
+import Projects from './components/Projects';
+var routes = require('./config/routes');
 
 ReactDOM.render(
-  <App />,
-  document.getElementById('app')
+  routes,
+  document.querySelector('.app')
 );

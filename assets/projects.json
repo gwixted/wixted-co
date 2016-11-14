@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "project": "BluePay",
+    "url": "https://www.bluepay.com/",
+    "responsive": true,
+    "tech_used": [ "HTML", "SASS", "jQuery" ],
+    "platform": "Drupal",
+    "synopsis": "Drupal website development. Custom content types, views, panels everywhere, nodequeues, taxonomies.",
+    "logo": "./assets/images/projects/logo-bluepay-bw-01.png",
+    "screenshot": "./assets/images/projects/screencapture-bluepay-01.png",
+    "employer": "Straight North"
+  },
+  {
+    "id": 2,
+    "project": "Call One",
+    "url": "http://www.callone.com/",
+    "responsive": true,
+    "tech_used": [ "HTML", "SASS", "jQuery" ],
+    "platform": "Drupal",
+    "synopsis": "Drupal website development. Custom content types, views, panels everywhere, nodequeues, taxonomies.",
+    "logo": "./assets/images/projects/logo-callone-bw-01.png",
+    "screenshot": "./assets/images/projects/screencapture-callone-01.png",
+    "employer": "Straight North"
+  },
+  {
+    "id": 3,
+    "project": "Pro Stock Hockey",
+    "url": "https://www.prostockhockey.com/",
+    "responsive": false,
+    "tech_used": [ "HTML", "SASS", "jQuery" ],
+    "synopsis": "Front-End development. Custom BigCommerce templates.",
+    "logo": "./assets/images/projects/logo-psh-bw-01.png",
+    "screenshot": "./assets/images/projects/screencapture-psh-01.png",
+    "employer": "Straight North"
+  },
+  {
+    "id": 4,
+    "project": "MicroTek",
+    "url": "https://www.mclabs.com/",
+    "responsive": true,
+    "tech_used": [ "HTML", "SASS", "jQuery" ],
+    "platform": "Drupal",
+    "synopsis": "Drupal website development. Custom content types, views, panels everywhere, nodequeues, taxonomies.",
+    "logo": "./assets/images/projects/logo-microtek-bw-01.png",
+    "screenshot": "./assets/images/projects/screencapture-microtek-01.png",
+    "employer": "Straight North"
+  },
+  {
+    "id": 5,
+    "project": "Breast Cancer Car Donations",
+    "url": "https://www.cardonations4cancer.org/",
+    "responsive": true,
+    "tech_used": [ "HTML", "SASS", "jQuery" ],
+    "platform": "WordPress",
+    "synopsis": "WordPress website development.",
+    "logo": "./assets/images/projects/logo-bccd-bw-01.png",
+    "screenshot": "./assets/images/projects/screencapture-bccd-01.png",
+    "employer": "Straight North"
+  }
+]
